@@ -1,6 +1,5 @@
 # Pac-Man Game
 
-
 ### Introduction
 Our project aims to develop an improved version of the Pac-Man game using C programming. We plan to enhance the existing game to provide a more captivating gaming experience.
 
@@ -18,6 +17,8 @@ We propose to add diverse features to each ghost (differentiating their attackin
 2. Introduction of a boss level.
 3. Addition of guns in the boss level for both the boss and Pac-Man.
 4. Power-ups for Pac-Man after certain points (e.g., shield, invisibility, freeze).
+5. Bullet reloading timing mechanism ensuring bullets can be fired only after a 3-second cooldown.
+6. Boss fight initiation upon reaching a specific score threshold.
 
 ### Tools & Technologies
 - **Programming Language:** C
